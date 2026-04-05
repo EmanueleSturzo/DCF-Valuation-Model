@@ -1,4 +1,4 @@
-# Discounted Cash Flow (DCF) Valuation Model
+# Improved Discounted Cash Flow (DCF) Valuation Model
 
 A 5-year DCF model to estimate the intrinsic value of publicly traded companies. Built in Python with automated financial data retrieval, WACC calculation via CAPM, sensitivity analysis, and visualization. Pls try it ;)
 
