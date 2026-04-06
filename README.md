@@ -23,7 +23,13 @@ A 5-year DCF model to estimate the intrinsic value of publicly traded companies.
 ```bash
 # Clone the repo
 git clone https://github.com/EmanueleSturzo/DCF-Valuation-Model.git
-cd DCF-Valuation-Model
+(download zip file and extract)
+
+for Mac:
+cd ~/Downloads/DCF-Valuation-Model-main
+
+for windows:
+cd C:\Users\YourName\Downloads\DCF-Valuation-Model-main
 
 # Install dependencies
 pip install -r requirements.txt
